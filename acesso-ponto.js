@@ -1,0 +1,4 @@
+const cliente = {
+nome: "Andre"
+
+}
